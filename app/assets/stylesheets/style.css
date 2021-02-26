@@ -275,6 +275,8 @@ a {
   position: absolute;/*←絶対位置*/
     bottom: 0; /*下に固定*/
     width: 100%;
+  position: fixed; /* フッターを固定する */
+
 }
 .copyright {
   text-align: center;
